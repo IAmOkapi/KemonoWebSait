@@ -1,0 +1,14 @@
+.zag{
+	border: 4px solid black;
+	height: 147px;
+	margin-bottom: 0.25%;
+}
+.pag{
+	border: 4px solid black;
+	height: 25px;
+	margin-bottom: 0.25%;
+}
+.chil{
+	border: 4px solid black;
+	height: 100px;
+}
